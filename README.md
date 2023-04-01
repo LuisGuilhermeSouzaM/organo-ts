@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# This project was made for learning more about React and to showcase my skills on my portfolio, I don't own any of the images for the games listed on the initials constant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Create React App
+# Project hosted on https://organo-red-xi.vercel.app/
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
