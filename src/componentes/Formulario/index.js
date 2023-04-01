@@ -44,11 +44,13 @@ const Formulario = ({aoCadastrar, categorias}) => {
                     aoAlterado={valor => setImagem(valor)}/>
                 <ListaSuspensa 
                     obrigatorio={true}
-                    label='categorias'
+                    label='Categorias'
                     items={categorias} 
                     valor={categoria}
                     aoAlterado={valor => setCategoria(valor)}/>
-                <Botao texto='Criar card' />
+                <Botao>
+                    Criar card
+                </Botao>
             </form>
         </section>
     )

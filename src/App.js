@@ -92,7 +92,7 @@ function App() {
 
   return (
     <div>
-      <Banner />
+      <Banner enderecoImagem="/imagens/banner.svg" textoAlternativo="O banner principal da página do Organo"/>
       <Formulario categorias={categorias.map(categoria => categoria.nome)} aoCadastrar={jogo => setJogos([...jogos, jogo])} />
       <section className="categoria">
         <h1>Minha organização</h1>
